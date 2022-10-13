@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Jaú
 * 🖥️  See my [portfolio](http://nataliafranceschi.github.io)
 * ✉️  You can contact me at [natalia.gfranceschi@gmail.com](mailto:natalia.gfranceschi@gmail.com)
-* 🧠  I'm learning React Hooks
+* 🧠  I'm learning Docker
 
 ### Skills
 
